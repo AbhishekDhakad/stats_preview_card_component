@@ -60,7 +60,7 @@ li{
     padding: 0 20px;
 }
 .image{
-    background: url(/images/image-header-mobile.jpg)no-repeat center/cover;
+    background: url(/images/image-header-mobile.jpg) no-repeat center/cover;
     overflow: hidden;
     height: 400px;
     background-color: var(--Soft-violet);
@@ -116,7 +116,7 @@ li{
     } 
     .image{
         
-        background: url(/images/image-header-desktop.jpg)no-repeat center/cover;
+        background: url(/images/image-header-desktop.jpg) no-repeat center/cover;
         border-radius: 0px 10px 10px 0;
         margin: auto;
         min-width: 40%;
